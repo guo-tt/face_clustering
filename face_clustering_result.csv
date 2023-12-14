@@ -1,0 +1,34 @@
+img_file,no_of_faces,face_cluster_in_image
+dataset/raw/Diana_0.jpg,7,"[0, 1, 2, 2, 3, 2, 2]"
+dataset/raw/Diana_1.jpg,2,"[4, 3]"
+dataset/raw/Diana_2.jpg,3,"[3, 5, 6]"
+dataset/raw/Diana_3.jpg,1,[3]
+dataset/raw/Diana_4.jpg,3,"[4, 7, 3]"
+dataset/raw/Diana_5.png,6,"[8, 9, 10, 3, 11, 12]"
+dataset/raw/Diana_6.jpeg,3,"[6, 3, 5]"
+dataset/raw/Diana_7.jpg,1,[3]
+dataset/raw/LHL_0.jpg,1,[13]
+dataset/raw/LHL_1.png,2,"[14, 13]"
+dataset/raw/LHL_10.jpg,4,"[15, 16, 17, 13]"
+dataset/raw/LHL_2.jpg,1,[13]
+dataset/raw/LHL_3.png,1,[13]
+dataset/raw/LHL_4.jpg,2,"[15, 13]"
+dataset/raw/LHL_5.jpg,3,"[18, 15, 13]"
+dataset/raw/LHL_6.jpg,4,"[15, 13, 19, 13]"
+dataset/raw/LHL_7.jpg,2,"[15, 13]"
+dataset/raw/LHL_8.jpg,6,"[20, 13, 21, 15, 13, 15]"
+dataset/raw/LHL_9.jpg,6,"[15, 22, 15, 15, 23, 13]"
+dataset/raw/Obama_0.png,1,[17]
+dataset/raw/Obama_1.png,17,"[17, 24, 25, 26, 27, 28, 29, 30, 31, 32, 3, 33, 34, 35, 36, 37, 38]"
+dataset/raw/Obama_2.png,6,"[17, 39, 16, 3, 17, 16]"
+dataset/raw/Obama_3.png,2,"[17, 40]"
+dataset/raw/Obama_4.png,4,"[41, 42, 17, 16]"
+dataset/raw/Putin_0.jpg,4,"[43, 44, 45, 46]"
+dataset/raw/Putin_1.jpg,1,[44]
+dataset/raw/Putin_2.jpg,1,[47]
+dataset/raw/Putin_3.jpg,1,[44]
+dataset/raw/Putin_4.jpg,1,[44]
+dataset/raw/Putin_5.jpg,2,"[44, 48]"
+dataset/raw/Putin_6.jpg,1,[44]
+dataset/raw/Putin_7.jpg,1,[44]
+dataset/raw/Putin_8.jpg,8,"[44, 49, 50, 51, 50, 52, 53, 44]"

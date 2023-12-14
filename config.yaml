@@ -1,0 +1,8 @@
+shape_predictor: "model/shape_predictor_5_face_landmarks.dat"
+face_recognition_model_v1: "model/dlib_face_recognition_resnet_model_v1.dat"
+image_input_folder: "dataset/raw/*.*"
+cw_clustering_threshold: 0.55
+cluster_component_number_threshold: 0
+face_output_folder: "output"
+face_clustering_output: "face_clustering_result.csv"
+face_embedding_output: "face_embedding_result.csv"
